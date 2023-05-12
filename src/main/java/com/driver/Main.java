@@ -5,7 +5,7 @@ public class Main {
     {
         RWOnly first=new RWOnly();
         first.setName("hi");// seeting name
-        System.out.println(first.getName());
+        System.out.println("silu");
     }
 
   
